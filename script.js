@@ -36,7 +36,7 @@ google.charts.setOnLoadCallback(drawChart);
                         0: {targetAxisIndex:1 },
                         1:{targetAxisIndex:0, color: '#f1efb8'},
                     },
-                    height: 800,
+                    height: 300,
                     backgroundColor: {fill: '#FFFFFF'},
                      chartArea: {
                         height:'95%',
