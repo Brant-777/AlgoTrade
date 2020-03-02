@@ -39,8 +39,8 @@ google.charts.setOnLoadCallback(drawChart);
                     height: 300,
                     backgroundColor: {fill: '#FFFFFF'},
                      chartArea: {
-                        height:'100%',
-                        width: "100%",
+                        height:'90%',
+                        width: "90%",
                     },
                     legend: 'none',
  
