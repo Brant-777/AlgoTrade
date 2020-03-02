@@ -10,7 +10,7 @@ The hyperlink above is a playground created with HTML/Bootstrap 4, JQuery, Javas
 
 ## Preview
 
-[![Resume Preview](https://Brant-777/AlgoTrade/img/AlgoTrade.png)](https://brant-777.github.io/AlgoTrade/)
+[![Resume Preview](https://user-images.githubusercontent.com/21012044/75682092-d5b23d80-5c62-11ea-99e9-e5bfa5eebb6a.png)](https://brant-777.github.io/AlgoTrade/)
 
 **[View Live Preview](https://brant-777.github.io/AlgoTrade/)**
 
